@@ -1,0 +1,2 @@
+Name Price Code Type
+Iphone6 35000 IP600 Apple
